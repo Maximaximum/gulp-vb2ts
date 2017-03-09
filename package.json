@@ -1,0 +1,33 @@
+{
+  "name": "gulp-vb2ts",
+  "version": "0.0.0",
+  "description": "My top-notch gulp plugin",
+  "license": "MIT",
+  "repository": "Maximaximum/gulp-vb2ts",
+  "author": {
+    "name": "Maximaximum",
+    "email": "maximaximums@gmail.com",
+    "url": "mazepa-studio.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1",
+    "vb2ts": "git+https://github.com/Maximaximum/vb2ts.git"
+  },
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "xo": "^0.14.0"
+  }
+}
