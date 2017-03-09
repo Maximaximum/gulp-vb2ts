@@ -1,7 +1,7 @@
 'use strict';
 var gutil = require('gulp-util');
 var through = require('through2');
-var vb2ts = require('vb2ts');
+var vb2ts = require('vb2ts').default;
 
 module.exports = function (opts) {
 	opts = opts || {};
