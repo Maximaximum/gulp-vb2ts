@@ -24,7 +24,7 @@
   "dependencies": {
     "gulp-util": "^3.0.7",
     "through2": "^2.0.1",
-    "vb2ts": "0.0.3"
+    "vb2ts": "^0.0.3"
   },
   "devDependencies": {
     "ava": "^0.14.0",
