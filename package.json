@@ -1,6 +1,6 @@
 {
   "name": "gulp-vb2ts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "VB.Net to TypeScript POCOs conversion gulp plugin",
   "license": "MIT",
   "repository": "Maximaximum/gulp-vb2ts",
