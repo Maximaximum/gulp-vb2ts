@@ -1,6 +1,6 @@
 # gulp-vb2ts [![Build Status](https://travis-ci.org/Maximaximum/gulp-vb2ts.svg?branch=master)](https://travis-ci.org/Maximaximum/gulp-vb2ts)
 
-> My top-notch gulp plugin
+> Gulp plugin that converts VB.Net POCOs to TypeScript using [https://github.com/Maximaximum/vb2ts](vb2ts)
 
 
 ## Install
@@ -28,14 +28,14 @@ gulp.task('default', () => {
 
 ### vb2ts([options])
 
-#### options
+#### No options are currently supported
 
-##### foo
+<!--##### foo
 
 Type: `boolean`<br>
 Default: `false`
 
-Lorem ipsum.
+Lorem ipsum.-->
 
 
 ## License
